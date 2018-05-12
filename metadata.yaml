@@ -1,4 +1,8 @@
 _repo: The-Substance-of-Faith-Allied-with-Science-6th-Ed-A-Catechism-for-Parents-and-Teachers_50330
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50330-h/images/cover.jpg
 creator:
   author:
     agent_name: Lodge, Oliver, Sir
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31912
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Lodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50330#The-Substance-of-Faith-Allied-with-Science-6th-Ed-A-Catechism-for-Parents-and-Teachers
 gutenberg_issued: '2015-10-27'
 gutenberg_type: Text
 identifiers:
